@@ -1,0 +1,13 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Navbar Container Section */
+.nv-con{
+  background-color: #262B37;
+}
+
+/* About Container Section */
+.about-container{
+  background-color: aqua;
+}
