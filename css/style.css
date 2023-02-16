@@ -5,9 +5,78 @@ body{
 /* Navbar Container Section */
 .nv-con{
   background-color: #262B37;
+  top: 0;
+  position: sticky;
+  z-index: 2;
 }
 
 /* About Container Section */
 .about-container{
   background-color: aqua;
+}
+
+/* Education Container Section */
+.education-container{
+  background-color: #EEEEEE;
+}
+
+.grad-pic{
+  margin-left: 440px;
+}
+
+.bg-clr{
+  background-color: darkorange;
+}
+
+.txt-clr{
+  color: black;
+}
+
+.circle{
+  background-color: #269b9d; 
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+/* Project Container Section */
+.project-container{
+  background-color: #2BB3DD;
+}
+
+.img-size{
+  height: 250px;
+  width: 350px;
+}
+
+
+/* Contact Section */
+.cont-container{
+  background-color: #474d5d;
+}
+
+.inner-input{
+  background-color: #585f73;
+  
+}
+/* Footer Section */
+.footer{
+  background-color: #2BB3DD;
+}
+
+/* Icon Circle */
+.icircle{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  color: #269b9d;
+}
+
+/* Icon circle hover */
+.icircle:hover{
+  background-color: gray;
 }
